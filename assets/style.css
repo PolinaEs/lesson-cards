@@ -23,3 +23,9 @@ h2 {
   width: calc(33.334% - 35px);
   height: 100px;
 }
+
+.float {
+  float: left;
+  width: calc(33.333% - 32px);
+  height: 100px;
+}
